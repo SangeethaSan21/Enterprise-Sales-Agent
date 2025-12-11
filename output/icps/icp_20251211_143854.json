@@ -1,0 +1,36 @@
+{
+  "company_characteristics": {
+    "industry": "B2B SaaS",
+    "sub_vertical": null,
+    "company_size": "50-200 employees",
+    "revenue_range": "$5M-$20M",
+    "growth_stage": null,
+    "geography": "United States and Canada",
+    "tech_stack": [],
+    "business_model": null
+  },
+  "buyer_persona": {
+    "job_titles": [
+      "VP of Sales",
+      "CRO",
+      "Head of Sales",
+      "VP of Sales",
+      "CRO",
+      "Head of Sales"
+    ],
+    "seniority_level": null,
+    "department": "Sales",
+    "pain_points": [
+      "Manual lead tracking",
+      "low pipeline visibility"
+    ],
+    "buying_behavior": {
+      "decision_maker": true
+    }
+  },
+  "engagement_signals": {
+    "intent_signals": [],
+    "timing_indicators": []
+  },
+  "completed": true
+}
