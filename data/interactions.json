@@ -1,0 +1,155 @@
+{
+  "interactions": [
+    {
+      "interaction_id": "INT-20251211140520411550",
+      "customer_id": "CUST-001",
+      "deal_id": "DEAL-001",
+      "interaction_type": "email",
+      "timestamp": "2025-12-11T14:05:20.411605",
+      "summary": "Email: Introduction to our solutions",
+      "details": "",
+      "participants": [],
+      "next_steps": [],
+      "sentiment": "neutral",
+      "metadata": {}
+    },
+    {
+      "interaction_id": "INT-20251211140520412628",
+      "customer_id": "CUST-001",
+      "deal_id": "DEAL-001",
+      "interaction_type": "call",
+      "timestamp": "2025-12-11T14:05:20.412674",
+      "summary": "Discovery call - discussed pain points",
+      "details": "",
+      "participants": [],
+      "next_steps": [],
+      "sentiment": "neutral",
+      "metadata": {
+        "duration_minutes": 45
+      }
+    },
+    {
+      "interaction_id": "INT-20251211140520415170",
+      "customer_id": "CUST-001",
+      "deal_id": "DEAL-001",
+      "interaction_type": "meeting",
+      "timestamp": "2025-12-11T14:05:20.415220",
+      "summary": "Product demo",
+      "details": "",
+      "participants": [
+        "John Smith",
+        "Sarah Johnson"
+      ],
+      "next_steps": [],
+      "sentiment": "neutral",
+      "metadata": {}
+    },
+    {
+      "interaction_id": "INT-20251211140520417681",
+      "customer_id": "CUST-001",
+      "deal_id": "DEAL-001",
+      "interaction_type": "proposal_sent",
+      "timestamp": "2025-12-11T14:05:20.417719",
+      "summary": "Sent proposal: Enterprise Package Proposal",
+      "details": "",
+      "participants": [],
+      "next_steps": [],
+      "sentiment": "neutral",
+      "metadata": {}
+    },
+    {
+      "interaction_id": "INT-20251211141356558609",
+      "customer_id": "CUST-20251211141356",
+      "deal_id": "DEAL-20251211141356",
+      "interaction_type": "note",
+      "timestamp": "2025-12-11T14:13:56.558666",
+      "summary": "New customer created: Acme Corporation",
+      "details": "",
+      "participants": [],
+      "next_steps": [],
+      "sentiment": "neutral",
+      "metadata": {}
+    },
+    {
+      "interaction_id": "INT-20251211141356640466",
+      "customer_id": "CUST-20251211141356",
+      "deal_id": "DEAL-20251211141356",
+      "interaction_type": "email",
+      "timestamp": "2025-12-11T14:13:56.640571",
+      "summary": "Email: Introduction to our solutions",
+      "details": "",
+      "participants": [],
+      "next_steps": [],
+      "sentiment": "neutral",
+      "metadata": {}
+    },
+    {
+      "interaction_id": "INT-20251211141356641922",
+      "customer_id": "CUST-20251211141356",
+      "deal_id": "DEAL-20251211141356",
+      "interaction_type": "call",
+      "timestamp": "2025-12-11T14:13:56.641998",
+      "summary": "Discovery call completed",
+      "details": "",
+      "participants": [],
+      "next_steps": [],
+      "sentiment": "neutral",
+      "metadata": {
+        "duration_minutes": 45
+      }
+    },
+    {
+      "interaction_id": "INT-20251211141356659088",
+      "customer_id": "CUST-20251211141356",
+      "deal_id": "DEAL-20251211141356",
+      "interaction_type": "note",
+      "timestamp": "2025-12-11T14:13:56.659143",
+      "summary": "Deal advanced to qualification",
+      "details": "Completed initial qualification",
+      "participants": [],
+      "next_steps": [],
+      "sentiment": "neutral",
+      "metadata": {}
+    },
+    {
+      "interaction_id": "INT-20251211141427322364",
+      "customer_id": "CUST-20251211141427",
+      "deal_id": "DEAL-20251211141427",
+      "interaction_type": "note",
+      "timestamp": "2025-12-11T14:14:27.322403",
+      "summary": "New customer created: TechCorp Inc",
+      "details": "",
+      "participants": [],
+      "next_steps": [],
+      "sentiment": "neutral",
+      "metadata": {}
+    },
+    {
+      "interaction_id": "INT-20251211141428077545",
+      "customer_id": "CUST-20251211141427",
+      "deal_id": "DEAL-20251211141427",
+      "interaction_type": "note",
+      "timestamp": "2025-12-11T14:14:28.077607",
+      "summary": "Deal advanced to qualification",
+      "details": "Moving to qualification",
+      "participants": [],
+      "next_steps": [],
+      "sentiment": "neutral",
+      "metadata": {}
+    },
+    {
+      "interaction_id": "INT-20251211141431465442",
+      "customer_id": "CUST-20251211141427",
+      "deal_id": "DEAL-20251211141427",
+      "interaction_type": "note",
+      "timestamp": "2025-12-11T14:14:31.465534",
+      "summary": "Deal advanced to discovery",
+      "details": "Fully qualified - all BANT criteria met",
+      "participants": [],
+      "next_steps": [],
+      "sentiment": "neutral",
+      "metadata": {}
+    }
+  ],
+  "last_updated": "2025-12-11T14:14:31.465871"
+}

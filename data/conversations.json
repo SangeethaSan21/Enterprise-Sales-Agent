@@ -1,0 +1,110 @@
+{
+  "conversations": [
+    {
+      "conversation_id": "CONV-20251211140600",
+      "customer_id": "CUST-001",
+      "deal_id": "DEAL-001",
+      "started_at": "2025-12-11T14:06:00.172616",
+      "ended_at": null,
+      "messages": [
+        {
+          "role": "user",
+          "content": "Hi, I'm interested in your product",
+          "timestamp": "2025-12-11T14:06:00.173529",
+          "metadata": {}
+        },
+        {
+          "role": "agent",
+          "content": "Great! Tell me about your needs",
+          "timestamp": "2025-12-11T14:06:00.174188",
+          "metadata": {}
+        },
+        {
+          "role": "user",
+          "content": "We need better automation tools",
+          "timestamp": "2025-12-11T14:06:00.174892",
+          "metadata": {}
+        },
+        {
+          "role": "agent",
+          "content": "Perfect! Let me ask a few questions...",
+          "timestamp": "2025-12-11T14:06:00.175592",
+          "metadata": {}
+        }
+      ],
+      "summary": "",
+      "key_points": [
+        "Customer needs automation",
+        "Budget range: $50K-$100K",
+        "Decision timeline: Q1 2025"
+      ],
+      "action_items": [
+        "Schedule demo for next week",
+        "Send product brochure"
+      ],
+      "active": true
+    },
+    {
+      "conversation_id": "CONV-20251211141427",
+      "customer_id": "CUST-20251211141427",
+      "deal_id": "DEAL-20251211141427",
+      "started_at": "2025-12-11T14:14:27.323810",
+      "ended_at": null,
+      "messages": [
+        {
+          "role": "user",
+          "content": "We're looking for a better CRM solution",
+          "timestamp": "2025-12-11T14:14:27.326824",
+          "metadata": {}
+        },
+        {
+          "role": "agent",
+          "content": "That's really interesting, Sarah - what's driving the need for a new CRM solution, and what are some of the challenges you're currently facing with your existing system? Are there any specific features or functionalities that you're looking for in a new solution? What prompted you to start exploring alternatives at this time?",
+          "timestamp": "2025-12-11T14:14:28.070669",
+          "metadata": {}
+        },
+        {
+          "role": "user",
+          "content": "Our sales team of 50 people is struggling with lead tracking",
+          "timestamp": "2025-12-11T14:14:28.073893",
+          "metadata": {}
+        },
+        {
+          "role": "agent",
+          "content": "Thanks for sharing that! Let me ask you a few qualifying questions to see how we can best help you.\n\nWhat's a rough estimate of what you've allocated for a new CRM solution?",
+          "timestamp": "2025-12-11T14:14:29.320000",
+          "metadata": {}
+        },
+        {
+          "role": "user",
+          "content": "We have a budget of around $75,000 and need something by Q1",
+          "timestamp": "2025-12-11T14:14:29.326360",
+          "metadata": {}
+        },
+        {
+          "role": "agent",
+          "content": "Who will be involved in the final decision to implement a new CRM solution?",
+          "timestamp": "2025-12-11T14:14:30.606122",
+          "metadata": {}
+        },
+        {
+          "role": "user",
+          "content": "Yes, I'm the VP of Sales and have approval authority",
+          "timestamp": "2025-12-11T14:14:30.611755",
+          "metadata": {}
+        },
+        {
+          "role": "agent",
+          "content": "Excellent! You're a great fit for our solution. Let's dive deeper into your specific requirements.\n\nWhat are the top 3 challenges you're facing right now?",
+          "timestamp": "2025-12-11T14:14:31.469275",
+          "metadata": {}
+        }
+      ],
+      "summary": "",
+      "key_points": [],
+      "action_items": [],
+      "active": true
+    }
+  ],
+  "last_updated": "2025-12-11T14:14:31.469534"
+}

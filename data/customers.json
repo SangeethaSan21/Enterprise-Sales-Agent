@@ -1,0 +1,111 @@
+{
+  "customers": [
+    {
+      "customer_id": "CUST-20251211140450",
+      "company_name": "Acme Corporation",
+      "industry": "Technology",
+      "company_size": "500-1000 employees",
+      "website": "https://acme.com",
+      "primary_contact": {
+        "name": "John Smith",
+        "title": "VP of Engineering",
+        "email": "john.smith@acme.com",
+        "phone": "+1-555-0123"
+      },
+      "contacts": [
+        {
+          "name": "Sarah Johnson",
+          "title": "CTO",
+          "email": "sarah.johnson@acme.com",
+          "phone": "",
+          "added_at": "2025-12-11T14:04:50.606199"
+        }
+      ],
+      "pain_points": [
+        {
+          "description": "Manual deployment process causing delays",
+          "added_at": "2025-12-11T14:04:50.607176"
+        },
+        {
+          "description": "Lack of visibility into system performance",
+          "added_at": "2025-12-11T14:04:50.608041"
+        }
+      ],
+      "requirements": [
+        {
+          "description": "Automated CI/CD pipeline",
+          "priority": "medium",
+          "added_at": "2025-12-11T14:04:50.609061"
+        },
+        {
+          "description": "Real-time monitoring dashboard",
+          "priority": "medium",
+          "added_at": "2025-12-11T14:04:50.609874"
+        }
+      ],
+      "budget_range": "$50K-$100K",
+      "decision_timeline": "Q1 2025",
+      "competitors": [],
+      "relationship_strength": "warm",
+      "engagement_level": 7,
+      "created_at": "2025-12-11T14:04:50.603164",
+      "updated_at": "2025-12-11T14:04:50.613674",
+      "tags": [
+        "enterprise",
+        "tech-stack-python"
+      ],
+      "custom_fields": {}
+    },
+    {
+      "customer_id": "CUST-20251211141356",
+      "company_name": "Acme Corporation",
+      "industry": "Technology",
+      "company_size": "500-1000 employees",
+      "website": "",
+      "primary_contact": {
+        "name": "John Smith",
+        "title": "",
+        "email": "john@acme.com",
+        "phone": ""
+      },
+      "contacts": [],
+      "pain_points": [],
+      "requirements": [],
+      "budget_range": "$50K-$100K",
+      "decision_timeline": "",
+      "competitors": [],
+      "relationship_strength": "new",
+      "engagement_level": 0,
+      "created_at": "2025-12-11T14:13:56.523112",
+      "updated_at": "2025-12-11T14:13:56.637910",
+      "tags": [],
+      "custom_fields": {}
+    },
+    {
+      "customer_id": "CUST-20251211141427",
+      "company_name": "TechCorp Inc",
+      "industry": "",
+      "company_size": "",
+      "website": "",
+      "primary_contact": {
+        "name": "Sarah Johnson",
+        "title": "",
+        "email": "sarah@techcorp.com",
+        "phone": ""
+      },
+      "contacts": [],
+      "pain_points": [],
+      "requirements": [],
+      "budget_range": "",
+      "decision_timeline": "",
+      "competitors": [],
+      "relationship_strength": "new",
+      "engagement_level": 0,
+      "created_at": "2025-12-11T14:14:27.318984",
+      "updated_at": "2025-12-11T14:14:27.318991",
+      "tags": [],
+      "custom_fields": {}
+    }
+  ],
+  "last_updated": "2025-12-11T14:14:27.320402"
+}

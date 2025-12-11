@@ -1,0 +1,123 @@
+{
+  "deals": [
+    {
+      "deal_id": "DEAL-20251211140332",
+      "customer_id": "CUST-001",
+      "company_name": "Acme Corp",
+      "stage": "qualification",
+      "value": 50000,
+      "probability": 20,
+      "created_at": "2025-12-11T14:03:32.053775",
+      "updated_at": "2025-12-11T14:03:32.062149",
+      "stage_history": [
+        {
+          "stage": "lead",
+          "entered_at": "2025-12-11T14:03:32.053775"
+        },
+        {
+          "stage": "qualification",
+          "entered_at": "2025-12-11T14:03:32.062149",
+          "from_stage": "lead"
+        }
+      ],
+      "notes": [
+        {
+          "timestamp": "2025-12-11T14:03:32.062149",
+          "note": "Initial qualification call completed",
+          "stage": "qualification"
+        }
+      ],
+      "bant_score": {
+        "budget": true,
+        "authority": false,
+        "need": true,
+        "timeline": false
+      },
+      "next_steps": [],
+      "expected_close_date": null
+    },
+    {
+      "deal_id": "DEAL-20251211141356",
+      "customer_id": "CUST-20251211141356",
+      "company_name": "Acme Corporation",
+      "stage": "qualification",
+      "value": 50000,
+      "probability": 20,
+      "created_at": "2025-12-11T14:13:56.527177",
+      "updated_at": "2025-12-11T14:13:56.644890",
+      "stage_history": [
+        {
+          "stage": "lead",
+          "entered_at": "2025-12-11T14:13:56.527177"
+        },
+        {
+          "stage": "qualification",
+          "entered_at": "2025-12-11T14:13:56.644890",
+          "from_stage": "lead"
+        }
+      ],
+      "notes": [
+        {
+          "timestamp": "2025-12-11T14:13:56.644890",
+          "note": "Completed initial qualification",
+          "stage": "qualification"
+        }
+      ],
+      "bant_score": {
+        "budget": false,
+        "authority": false,
+        "need": false,
+        "timeline": false
+      },
+      "next_steps": [],
+      "expected_close_date": null
+    },
+    {
+      "deal_id": "DEAL-20251211141427",
+      "customer_id": "CUST-20251211141427",
+      "company_name": "TechCorp Inc",
+      "stage": "discovery",
+      "value": 0.0,
+      "probability": 40,
+      "created_at": "2025-12-11T14:14:27.321234",
+      "updated_at": "2025-12-11T14:14:31.456589",
+      "stage_history": [
+        {
+          "stage": "lead",
+          "entered_at": "2025-12-11T14:14:27.321234"
+        },
+        {
+          "stage": "qualification",
+          "entered_at": "2025-12-11T14:14:28.075539",
+          "from_stage": "lead"
+        },
+        {
+          "stage": "discovery",
+          "entered_at": "2025-12-11T14:14:31.456589",
+          "from_stage": "qualification"
+        }
+      ],
+      "notes": [
+        {
+          "timestamp": "2025-12-11T14:14:28.075539",
+          "note": "Moving to qualification",
+          "stage": "qualification"
+        },
+        {
+          "timestamp": "2025-12-11T14:14:31.456589",
+          "note": "Fully qualified - all BANT criteria met",
+          "stage": "discovery"
+        }
+      ],
+      "bant_score": {
+        "budget": true,
+        "authority": true,
+        "need": true,
+        "timeline": true
+      },
+      "next_steps": [],
+      "expected_close_date": null
+    }
+  ],
+  "last_updated": "2025-12-11T14:14:31.457357"
+}
